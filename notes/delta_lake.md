@@ -14,3 +14,6 @@
 ## Databricks
 - Managed Tables
 - External Tables
+
+## Set up Delta Tables
+### CTAS - Create Tables as Statements
